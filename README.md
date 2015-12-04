@@ -3,6 +3,7 @@
 pgAdminとは
 ----------
 pgAdminとはPostgreSQLを管理するツールである。  
+![アイコン](http://www.fastpic.jp/images.php?file=5942021288.png "アイコン")
 
 
 使い方
@@ -20,12 +21,14 @@ pgAdminとはPostgreSQLを管理するツールである。
 プロパティで名前、ホスト、Portを入力しOKボタンを右クリック。  
 ![登録](http://www.fastpic.jp/images.php?file=4061138219.png "登録")
 
+
 ### 2.DB接続
 PostgreSQL9.4(localhost:5432)を右クリック。  
 ![接続](http://www.fastpic.jp/images.php?file=9333772043.png "接続1")
 
 パスワードを入力する。(設定によって自動で接続できる)  
 ![接続](http://www.fastpic.jp/images.php?file=6664332486.png "接続2")
+
 
 ### 3.テーブル作成
 「データベース」-「スキーマ」-「Public」-「テーブル」を右クリックし、  
@@ -42,10 +45,10 @@ PostgreSQL9.4(localhost:5432)を右クリック。
 追加ボタンを右クリック。  
 ![作成](http://www.fastpic.jp/images.php?file=7790622982.png "作成3")  
 
-プロパティで名前、データ型を設定。
+プロパティで名前、データ型を設定。  
 列は後から変更することもできる。  
 ![作成](http://www.fastpic.jp/images.php?file=5375794142.png "作成4")  
-  
+
 制約を設定する。  
 追加ボタンを右クリック。  
 ![作成](http://www.fastpic.jp/images.php?file=0962368177.png "作成5")  
@@ -64,6 +67,7 @@ PostgreSQL9.4(localhost:5432)を右クリック。
 ![作成](http://www.fastpic.jp/images.php?file=6632247614.png "作成9")  
 ![作成](http://www.fastpic.jp/images.php?file=8938638365.png "作成10")  
 
+
 ### 4.データ挿入
 コマンドプロンプトでCSV形式の表をインポートすることができる。  
 ![挿入](http://www.fastpic.jp/images.php?file=1404849950.png "挿入1")  
@@ -73,12 +77,7 @@ PostgreSQL9.4(localhost:5432)を右クリック。
 
 試しにSELECT文で見てみると、  
 ![挿入](http://www.fastpic.jp/images.php?file=1568379117.png "挿入2")  
-
 データが入っていることがわかる。  
-
-
-他にもいろんな機能があるが、  
-触っていくうちに使い方がわかってくると思うので、頑張ってほしい。
 
 
 ライセンス
