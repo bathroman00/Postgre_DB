@@ -42,10 +42,10 @@ PostgreSQL9.4(localhost:5432)を右クリック。
 追加ボタンを右クリック。  
 ![作成](http://www.fastpic.jp/images.php?file=7790622982.png "作成3")  
 
-プロパティで名前、データ型を設定。  
-![作成](http://www.fastpic.jp/images.php?file=5375794142.png "作成4")  
+プロパティで名前、データ型を設定。
 列は後から変更することもできる。  
-
+![作成](http://www.fastpic.jp/images.php?file=5375794142.png "作成4")  
+  
 制約を設定する。  
 追加ボタンを右クリック。  
 ![作成](http://www.fastpic.jp/images.php?file=0962368177.png "作成5")  
